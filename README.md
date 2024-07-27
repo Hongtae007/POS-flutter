@@ -1,6 +1,8 @@
 ตัวอย่าง App
-![Screenshot 2024-07-28 011540](https://github.com/user-attachments/assets/60b530c5-ec37-4980-bcf2-4b3afb7ab9cd)
-![Screenshot 2024-07-28 011530](https://github.com/user-attachments/assets/488d16a6-028d-4401-9cc9-8559dbf87bd1)
+![Screenshot 2024-07-28 013845](https://github.com/user-attachments/assets/8b125621-6276-4463-8dd5-a7245145bd5a)
+
+![image](https://github.com/user-attachments/assets/b24b84a8-1df8-4bee-a30d-334b3240e6a6)
+
 
 
 # myproject
